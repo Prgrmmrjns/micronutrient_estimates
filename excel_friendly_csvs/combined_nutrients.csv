@@ -1,0 +1,265 @@
+image_name,nutrient_name,amount,unit
+4.jpeg,betaine,75.6,mg
+4.jpeg,ca,287.2,mg
+4.jpeg,beta,0.76,mg
+4.jpeg,cholesterol,20.0,mg
+4.jpeg,free,9.78,mg
+4.jpeg,from glycerophosphocholine,4.56,mg
+4.jpeg,from phosphocholine,0.24,mg
+4.jpeg,from phosphotidyl choline,1.74,mg
+4.jpeg,total,29.4,µg
+4.jpeg,cu,0.29,mg
+4.jpeg,total dietary,6.3,g
+4.jpeg,fructose,4.87,g
+4.jpeg,galactose,0.01,g
+4.jpeg,glucose,4.13,g
+4.jpeg,i,508.0,µg
+4.jpeg,fe,3.03,mg
+4.jpeg,lactose,0.04,g
+4.jpeg,lutein + zeaxanthin,285.0,µg
+4.jpeg,lycopene,19050.0,µg
+4.jpeg,mg,88.47,mg
+4.jpeg,maltose,0.62,g
+4.jpeg,mn,1.52,mg
+4.jpeg,niacin,2.67,mg
+4.jpeg,pantothenic acid,0.47,mg
+4.jpeg,p,400.3,mg
+4.jpeg,k,856.6,mg
+4.jpeg,retinol,63.2,µg
+4.jpeg,riboflavin,0.19,mg
+4.jpeg,se,21.14,µg
+4.jpeg,na,5419.3,mg
+4.jpeg,sucrose,1.29,g
+4.jpeg,thiamin,0.24,mg
+4.jpeg,delta,0.11,mg
+4.jpeg,gamma,0.22,mg
+4.jpeg,alpha,0.25,mg
+4.jpeg,total fat (nlea),10.74,g
+4.jpeg,rae,111.2,µg
+4.jpeg,vitamin b-12,0.21,µg
+4.jpeg,vitamin b-6,0.14,mg
+4.jpeg,vitamin e (alpha-tocopherol),1.84,mg
+4.jpeg,vitamin k (menaquinone-4),1.86,µg
+4.jpeg,vitamin k (phylloquinone),0.48,µg
+4.jpeg,zn,2.85,mg
+5.jpg,biotin,0.06,µg
+5.jpg,ca,439.4,mg
+5.jpg,free,2.4,mg
+5.jpg,from phosphocholine,0.18,mg
+5.jpg,from phosphotidyl choline,0.36,mg
+5.jpg,total,3.0,µg
+5.jpg,cis-beta-carotene,14.7,µg
+5.jpg,cis-lutein/zeaxanthin,3.6,µg
+5.jpg,cis-lycopene,166.2,µg
+5.jpg,cu,0.37,mg
+5.jpg,total dietary,5.23,g
+5.jpg,fructose,9.14,g
+5.jpg,glucose,9.66,g
+5.jpg,fe,8.19,mg
+5.jpg,lactose,0.12,g
+5.jpg,lutein,28.5,µg
+5.jpg,lycopene,1230.0,µg
+5.jpg,mg,92.1,mg
+5.jpg,maltose,3.12,g
+5.jpg,mn,1.37,mg
+5.jpg,niacin,9.76,mg
+5.jpg,pantothenic acid,1.1,mg
+5.jpg,p,615.85,mg
+5.jpg,k,1152.5,mg
+5.jpg,riboflavin,0.5,mg
+5.jpg,se,46.4,µg
+5.jpg,na,2504.3,mg
+5.jpg,sucrose,0.6,g
+5.jpg,thiamin,1.04,mg
+5.jpg,beta,0.01,mg
+5.jpg,delta,0.04,mg
+5.jpg,gamma,0.21,mg
+5.jpg,total fat (nlea),12.21,g
+5.jpg,trans-beta-carotene,117.9,µg
+5.jpg,vitamin b-6,0.2,mg
+5.jpg,total ascorbic acid,9.81,mg
+5.jpg,vitamin e (alpha-tocopherol),0.29,mg
+5.jpg,vitamin k (phylloquinone),1.26,µg
+5.jpg,zeaxanthin,2.7,µg
+5.jpg,zn,4.48,mg
+6.jpg,betaine,0.05,mg
+6.jpg,ca,657.8,mg
+6.jpg,alpha,0.07,mg
+6.jpg,beta,0.01,mg
+6.jpg,cholesterol,46.5,mg
+6.jpg,free,1.65,mg
+6.jpg,from phosphocholine,0.05,mg
+6.jpg,from phosphotidyl choline,3.0,mg
+6.jpg,from sphingomyelin,2.2,mg
+6.jpg,total,4.5,µg
+6.jpg,cu,0.16,mg
+6.jpg,total dietary,2.3,g
+6.jpg,fructose,2.28,g
+6.jpg,glucose,1.98,g
+6.jpg,fe,3.68,mg
+6.jpg,lactose,0.06,g
+6.jpg,lutein + zeaxanthin,4.0,µg
+6.jpg,lycopene,0.5,µg
+6.jpg,mg,49.69,mg
+6.jpg,maltose,1.56,g
+6.jpg,mn,0.65,mg
+6.jpg,niacin,4.79,mg
+6.jpg,pantothenic acid,0.72,mg
+6.jpg,p,473.8,mg
+6.jpg,k,297.7,mg
+6.jpg,retinol,143.5,µg
+6.jpg,riboflavin,0.39,mg
+6.jpg,se,38.25,µg
+6.jpg,na,878.5,mg
+6.jpg,sucrose,0.12,g
+6.jpg,thiamin,0.51,mg
+6.jpg,gamma,0.04,mg
+6.jpg,total fat (nlea),18.31,g
+6.jpg,rae,146.0,µg
+6.jpg,vitamin b-12,1.51,µg
+6.jpg,vitamin b-6,0.13,mg
+6.jpg,vitamin e (alpha-tocopherol),0.3,mg
+6.jpg,vitamin k (menaquinone-4),3.15,µg
+6.jpg,vitamin k (phylloquinone),0.7,µg
+6.jpg,zn,3.59,mg
+2.jpg,biotin,0.29,µg
+2.jpg,ca,256.57,mg
+2.jpg,beta,2.5,µg
+2.jpg,cholesterol,5.0,mg
+2.jpg,cu,0.18,mg
+2.jpg,total dietary,1.44,g
+2.jpg,total,25.0,µg
+2.jpg,fructose,3.52,g
+2.jpg,galactose,0.65,g
+2.jpg,glucose,1.67,g
+2.jpg,high molecular weight dietary fiber (hmwdf),12.9,g
+2.jpg,fe,1.51,mg
+2.jpg,lactose,3.09,g
+2.jpg,low molecular weight dietary fiber (lmwdf),0.89,g
+2.jpg,lutein + zeaxanthin,5.0,µg
+2.jpg,mg,74.3,mg
+2.jpg,maltose,0.47,g
+2.jpg,mn,1.04,mg
+2.jpg,mo,20.55,µg
+2.jpg,niacin,3.17,mg
+2.jpg,pantothenic acid,0.62,mg
+2.jpg,p,309.31,mg
+2.jpg,k,1262.35,mg
+2.jpg,riboflavin,0.38,mg
+2.jpg,se,19.21,µg
+2.jpg,na,209.82,mg
+2.jpg,sucrose,7.21,g
+2.jpg,thiamin,0.22,mg
+2.jpg,total dietary fiber (aoac 2011.25),13.8,g
+2.jpg,total fat (nlea),1.22,g
+2.jpg,vitamin b-12,0.56,µg
+2.jpg,vitamin b-6,0.59,mg
+2.jpg,total ascorbic acid,129.35,mg
+2.jpg,vitamin d (d2 + d3),1.25,µg
+2.jpg,international units,50.0,iu
+2.jpg,vitamin d3 (cholecalciferol),1.25,µg
+2.jpg,vitamin k (phylloquinone),72.9,µg
+2.jpg,zn,1.78,mg
+1.jpg,alanine,0.01,g
+1.jpg,arginine,0.01,g
+1.jpg,aspartic acid,0.12,g
+1.jpg,biotin,1.2,µg
+1.jpg,ca,222.5,mg
+1.jpg,beta,0.09,mg
+1.jpg,cholesterol,68.18,mg
+1.jpg,cu,0.1,mg
+1.jpg,cystine,0.0,g
+1.jpg,insoluble,0.27,g
+1.jpg,soluble,0.18,g
+1.jpg,total dietary,2.15,g
+1.jpg,total,23.6,µg
+1.jpg,fructose,1.11,g
+1.jpg,galactose,0.02,g
+1.jpg,glucose,1.17,g
+1.jpg,glutamic acid,0.02,g
+1.jpg,glycine,0.01,g
+1.jpg,histidine,0.0,g
+1.jpg,i,58.7,µg
+1.jpg,fe,0.75,mg
+1.jpg,isoleucine,0.0,g
+1.jpg,leucine,0.01,g
+1.jpg,lutein + zeaxanthin,81.8,µg
+1.jpg,lycopene,1262.0,µg
+1.jpg,lysine,0.01,g
+1.jpg,mg,56.59,mg
+1.jpg,maltose,0.02,g
+1.jpg,mn,0.16,mg
+1.jpg,methionine,0.0,g
+1.jpg,niacin,4.87,mg
+1.jpg,pantothenic acid,0.57,mg
+1.jpg,phenylalanine,0.01,g
+1.jpg,p,436.4,mg
+1.jpg,k,798.7,mg
+1.jpg,proline,0.01,g
+1.jpg,riboflavin,0.14,mg
+1.jpg,se,31.71,µg
+1.jpg,serine,0.01,g
+1.jpg,na,586.35,mg
+1.jpg,sucrose,1.47,g
+1.jpg,thiamin,0.06,mg
+1.jpg,threonine,0.0,g
+1.jpg,gamma,0.03,mg
+1.jpg,delta,0.0,mg
+1.jpg,total fat (nlea),0.38,g
+1.jpg,tryptophan,0.0,g
+1.jpg,tyrosine,0.0,g
+1.jpg,valine,0.01,g
+1.jpg,rae,12.0,µg
+1.jpg,vitamin b-12,2.2,µg
+1.jpg,vitamin b-6,0.44,mg
+1.jpg,total ascorbic acid,1.23,mg
+1.jpg,vitamin d (d2 + d3),0.82,µg
+1.jpg,international units,30.28,iu
+1.jpg,vitamin d3 (cholecalciferol),0.82,µg
+1.jpg,vitamin e (alpha-tocopherol),0.78,mg
+1.jpg,vitamin k (phylloquinone),1.74,µg
+1.jpg,zn,1.25,mg
+3.jpeg,betaine,0.04,mg
+3.jpeg,ca,666.95,mg
+3.jpeg,alpha,0.05,mg
+3.jpeg,beta,0.01,mg
+3.jpeg,cholesterol,40.58,mg
+3.jpeg,free,1.32,mg
+3.jpeg,from phosphocholine,0.04,mg
+3.jpeg,from phosphotidyl choline,2.4,mg
+3.jpeg,from sphingomyelin,1.76,mg
+3.jpeg,total,3.6,µg
+3.jpeg,cu,0.14,mg
+3.jpeg,total dietary,2.6,g
+3.jpeg,fructose,1.95,g
+3.jpeg,glucose,2.0,g
+3.jpeg,i,1074.7,µg
+3.jpeg,fe,2.33,mg
+3.jpeg,lactose,0.04,g
+3.jpeg,lutein + zeaxanthin,3.2,µg
+3.jpeg,lycopene,0.4,µg
+3.jpeg,mg,57.54,mg
+3.jpeg,maltose,0.94,g
+3.jpeg,mn,0.45,mg
+3.jpeg,niacin,2.88,mg
+3.jpeg,pantothenic acid,0.47,mg
+3.jpeg,p,509.6,mg
+3.jpeg,k,565.2,mg
+3.jpeg,retinol,114.8,µg
+3.jpeg,riboflavin,0.27,mg
+3.jpeg,se,25.96,µg
+3.jpeg,na,8460.92,mg
+3.jpeg,sucrose,0.12,g
+3.jpeg,thiamin,0.31,mg
+3.jpeg,gamma,0.03,mg
+3.jpeg,total fat (nlea),14.17,g
+3.jpeg,rae,116.8,µg
+3.jpeg,vitamin b-12,1.21,µg
+3.jpeg,vitamin b-6,0.08,mg
+3.jpeg,vitamin d (d2 + d3),0.22,µg
+3.jpeg,international units,8.68,iu
+3.jpeg,vitamin d3 (cholecalciferol),0.22,µg
+3.jpeg,vitamin e (alpha-tocopherol),0.24,mg
+3.jpeg,vitamin k (menaquinone-4),2.52,µg
+3.jpeg,vitamin k (phylloquinone),0.56,µg
+3.jpeg,zn,3.46,mg

@@ -1,0 +1,562 @@
+image_name,component_name,matched_item,nutrient_name,amount,unit
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",ca,287.2,mg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",beta,585.0,µg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",cu,0.29,mg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",total dietary,6.3,g
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",fructose,4.87,g
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",glucose,4.13,g
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",fe,3.03,mg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",lutein + zeaxanthin,285.0,µg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",lycopene,19050.0,µg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",mg,88.47,mg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",mn,1.52,mg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",p,400.3,mg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",k,856.6,mg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",na,5419.3,mg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",sucrose,1.29,g
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",total fat (nlea),10.74,g
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",rae,111.2,µg
+4.jpeg,Pasta Salad,"sauce, pasta, spaghetti/marinara, ready-to-serve",zn,2.85,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",betaine,75.6,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",ca,97.8,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",free,9.78,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",from glycerophosphocholine,4.56,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",from phosphocholine,0.24,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",from phosphotidyl choline,1.74,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",total,29.4,µg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",cu,0.14,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",total dietary,3.6,g
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",fructose,1.34,g
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",glucose,0.66,g
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",fe,1.54,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",lactose,0.04,g
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",mg,45.96,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",maltose,0.62,g
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",mn,1.31,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",niacin,2.67,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",pantothenic acid,0.47,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",p,127.2,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",k,150.0,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",riboflavin,0.19,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",se,21.14,µg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",na,270.0,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",sucrose,0.02,g
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",thiamin,0.24,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",beta,0.76,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",delta,0.11,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",gamma,0.22,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",alpha,0.25,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",total fat (nlea),1.79,g
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",vitamin b-6,0.14,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",vitamin e (alpha-tocopherol),1.84,mg
+4.jpeg,Brown Bread,"bread, whole-wheat, commercially prepared",zn,1.06,mg
+4.jpeg,Butter,"salt, table, iodized",ca,5.0,mg
+4.jpeg,Butter,"salt, table, iodized",i,508.0,µg
+4.jpeg,Butter,"salt, table, iodized",mn,0.0,mg
+4.jpeg,Butter,"salt, table, iodized",k,0.2,mg
+4.jpeg,Butter,"salt, table, iodized",na,3870.0,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",ca,141.4,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",cholesterol,20.0,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",cu,0.01,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",total,4.2,µg
+4.jpeg,Spread Cheese,"cheese, cheddar",galactose,0.01,g
+4.jpeg,Spread Cheese,"cheese, cheddar",glucose,0.02,g
+4.jpeg,Spread Cheese,"cheese, cheddar",fe,0.03,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",lactose,0.03,g
+4.jpeg,Spread Cheese,"cheese, cheddar",mg,5.36,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",mn,0.01,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",niacin,0.01,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",pantothenic acid,0.08,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",p,91.6,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",k,15.4,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",retinol,63.2,µg
+4.jpeg,Spread Cheese,"cheese, cheddar",riboflavin,0.09,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",se,5.66,µg
+4.jpeg,Spread Cheese,"cheese, cheddar",na,130.8,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",thiamin,0.01,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",gamma,0.01,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",total fat (nlea),5.8,g
+4.jpeg,Spread Cheese,"cheese, cheddar",rae,63.2,µg
+4.jpeg,Spread Cheese,"cheese, cheddar",vitamin b-12,0.21,µg
+4.jpeg,Spread Cheese,"cheese, cheddar",vitamin b-6,0.01,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",vitamin e (alpha-tocopherol),0.15,mg
+4.jpeg,Spread Cheese,"cheese, cheddar",vitamin k (menaquinone-4),1.86,µg
+4.jpeg,Spread Cheese,"cheese, cheddar",vitamin k (phylloquinone),0.48,µg
+4.jpeg,Spread Cheese,"cheese, cheddar",zn,0.73,mg
+5.jpg,Bread,"bread, white, commercially prepared",ca,439.4,mg
+5.jpg,Bread,"bread, white, commercially prepared",cu,0.37,mg
+5.jpg,Bread,"bread, white, commercially prepared",total dietary,5.23,g
+5.jpg,Bread,"bread, white, commercially prepared",fructose,9.14,g
+5.jpg,Bread,"bread, white, commercially prepared",glucose,9.66,g
+5.jpg,Bread,"bread, white, commercially prepared",fe,8.19,mg
+5.jpg,Bread,"bread, white, commercially prepared",lactose,0.12,g
+5.jpg,Bread,"bread, white, commercially prepared",mg,92.1,mg
+5.jpg,Bread,"bread, white, commercially prepared",maltose,3.12,g
+5.jpg,Bread,"bread, white, commercially prepared",mn,1.37,mg
+5.jpg,Bread,"bread, white, commercially prepared",niacin,9.76,mg
+5.jpg,Bread,"bread, white, commercially prepared",pantothenic acid,1.1,mg
+5.jpg,Bread,"bread, white, commercially prepared",p,615.85,mg
+5.jpg,Bread,"bread, white, commercially prepared",k,1152.5,mg
+5.jpg,Bread,"bread, white, commercially prepared",riboflavin,0.5,mg
+5.jpg,Bread,"bread, white, commercially prepared",se,46.4,µg
+5.jpg,Bread,"bread, white, commercially prepared",na,2504.3,mg
+5.jpg,Bread,"bread, white, commercially prepared",thiamin,1.04,mg
+5.jpg,Bread,"bread, white, commercially prepared",total fat (nlea),12.21,g
+5.jpg,Bread,"bread, white, commercially prepared",vitamin b-6,0.2,mg
+5.jpg,Bread,"bread, white, commercially prepared",zn,4.48,mg
+5.jpg,Ham,"ham, sliced, restaurant",ca,9.0,mg
+5.jpg,Ham,"ham, sliced, restaurant",cu,0.06,mg
+5.jpg,Ham,"ham, sliced, restaurant",glucose,2.7,g
+5.jpg,Ham,"ham, sliced, restaurant",fe,1.29,mg
+5.jpg,Ham,"ham, sliced, restaurant",mg,30.45,mg
+5.jpg,Ham,"ham, sliced, restaurant",mn,0.02,mg
+5.jpg,Ham,"ham, sliced, restaurant",p,369.0,mg
+5.jpg,Ham,"ham, sliced, restaurant",k,726.0,mg
+5.jpg,Ham,"ham, sliced, restaurant",na,1545.0,mg
+5.jpg,Ham,"ham, sliced, restaurant",sucrose,0.6,g
+5.jpg,Ham,"ham, sliced, restaurant",total fat (nlea),5.31,g
+5.jpg,Ham,"ham, sliced, restaurant",zn,2.64,mg
+5.jpg,Grapes,"grapes, red, seedless, raw",biotin,0.06,µg
+5.jpg,Grapes,"grapes, red, seedless, raw",ca,5.1,mg
+5.jpg,Grapes,"grapes, red, seedless, raw",cu,0.04,mg
+5.jpg,Grapes,"grapes, red, seedless, raw",fructose,4.58,g
+5.jpg,Grapes,"grapes, red, seedless, raw",glucose,4.08,g
+5.jpg,Grapes,"grapes, red, seedless, raw",fe,0.08,mg
+5.jpg,Grapes,"grapes, red, seedless, raw",mg,4.28,mg
+5.jpg,Grapes,"grapes, red, seedless, raw",mn,0.05,mg
+5.jpg,Grapes,"grapes, red, seedless, raw",p,12.45,mg
+5.jpg,Grapes,"grapes, red, seedless, raw",k,114.5,mg
+5.jpg,Grapes,"grapes, red, seedless, raw",na,3.5,mg
+5.jpg,Grapes,"grapes, red, seedless, raw",total ascorbic acid,9.81,mg
+5.jpg,Grapes,"grapes, red, seedless, raw",zn,0.02,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",ca,3.3,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",free,2.4,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",from phosphocholine,0.18,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",from phosphotidyl choline,0.36,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",total,3.0,µg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",cis-beta-carotene,14.7,µg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",cis-lutein/zeaxanthin,3.6,µg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",cis-lycopene,166.2,µg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",cu,0.02,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",total dietary,0.63,g
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",fe,0.1,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",lutein,28.5,µg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",lycopene,1230.0,µg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",mg,3.57,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",mn,0.04,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",niacin,0.24,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",p,8.4,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",k,78.0,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",riboflavin,0.02,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",na,1.8,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",thiamin,0.02,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",beta,0.01,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",delta,0.04,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",gamma,0.21,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",trans-beta-carotene,117.9,µg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",vitamin b-6,0.02,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",total ascorbic acid,8.16,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",vitamin e (alpha-tocopherol),0.29,mg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",vitamin k (phylloquinone),1.26,µg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",zeaxanthin,2.7,µg
+5.jpg,Cherry tomatoes,"tomatoes, grape, raw",zn,0.06,mg
+6.jpg,Bread,"bread, white, commercially prepared",ca,657.8,mg
+6.jpg,Bread,"bread, white, commercially prepared",cu,0.16,mg
+6.jpg,Bread,"bread, white, commercially prepared",total dietary,2.3,g
+6.jpg,Bread,"bread, white, commercially prepared",fructose,2.28,g
+6.jpg,Bread,"bread, white, commercially prepared",glucose,1.98,g
+6.jpg,Bread,"bread, white, commercially prepared",fe,3.68,mg
+6.jpg,Bread,"bread, white, commercially prepared",lactose,0.06,g
+6.jpg,Bread,"bread, white, commercially prepared",mg,49.69,mg
+6.jpg,Bread,"bread, white, commercially prepared",maltose,1.56,g
+6.jpg,Bread,"bread, white, commercially prepared",mn,0.65,mg
+6.jpg,Bread,"bread, white, commercially prepared",niacin,4.79,mg
+6.jpg,Bread,"bread, white, commercially prepared",pantothenic acid,0.72,mg
+6.jpg,Bread,"bread, white, commercially prepared",p,473.8,mg
+6.jpg,Bread,"bread, white, commercially prepared",k,297.7,mg
+6.jpg,Bread,"bread, white, commercially prepared",riboflavin,0.39,mg
+6.jpg,Bread,"bread, white, commercially prepared",se,38.25,µg
+6.jpg,Bread,"bread, white, commercially prepared",na,878.5,mg
+6.jpg,Bread,"bread, white, commercially prepared",thiamin,0.51,mg
+6.jpg,Bread,"bread, white, commercially prepared",total fat (nlea),18.31,g
+6.jpg,Bread,"bread, white, commercially prepared",vitamin b-6,0.13,mg
+6.jpg,Bread,"bread, white, commercially prepared",zn,3.59,mg
+6.jpg,Cheese,"cheese, swiss",betaine,0.05,mg
+6.jpg,Cheese,"cheese, swiss",ca,445.0,mg
+6.jpg,Cheese,"cheese, swiss",alpha,0.07,mg
+6.jpg,Cheese,"cheese, swiss",beta,0.01,mg
+6.jpg,Cheese,"cheese, swiss",cholesterol,46.5,mg
+6.jpg,Cheese,"cheese, swiss",free,1.65,mg
+6.jpg,Cheese,"cheese, swiss",from phosphocholine,0.05,mg
+6.jpg,Cheese,"cheese, swiss",from phosphotidyl choline,3.0,mg
+6.jpg,Cheese,"cheese, swiss",from sphingomyelin,2.2,mg
+6.jpg,Cheese,"cheese, swiss",total,4.5,µg
+6.jpg,Cheese,"cheese, swiss",cu,0.02,mg
+6.jpg,Cheese,"cheese, swiss",fe,0.07,mg
+6.jpg,Cheese,"cheese, swiss",lutein + zeaxanthin,4.0,µg
+6.jpg,Cheese,"cheese, swiss",lycopene,0.5,µg
+6.jpg,Cheese,"cheese, swiss",mg,16.7,mg
+6.jpg,Cheese,"cheese, swiss",mn,0.01,mg
+6.jpg,Cheese,"cheese, swiss",niacin,0.03,mg
+6.jpg,Cheese,"cheese, swiss",pantothenic acid,0.18,mg
+6.jpg,Cheese,"cheese, swiss",p,287.0,mg
+6.jpg,Cheese,"cheese, swiss",k,35.5,mg
+6.jpg,Cheese,"cheese, swiss",retinol,143.5,µg
+6.jpg,Cheese,"cheese, swiss",riboflavin,0.15,mg
+6.jpg,Cheese,"cheese, swiss",se,15.05,µg
+6.jpg,Cheese,"cheese, swiss",na,92.5,mg
+6.jpg,Cheese,"cheese, swiss",thiamin,0.01,mg
+6.jpg,Cheese,"cheese, swiss",gamma,0.04,mg
+6.jpg,Cheese,"cheese, swiss",total fat (nlea),13.8,g
+6.jpg,Cheese,"cheese, swiss",rae,146.0,µg
+6.jpg,Cheese,"cheese, swiss",vitamin b-12,1.51,µg
+6.jpg,Cheese,"cheese, swiss",vitamin b-6,0.04,mg
+6.jpg,Cheese,"cheese, swiss",vitamin e (alpha-tocopherol),0.3,mg
+6.jpg,Cheese,"cheese, swiss",vitamin k (menaquinone-4),3.15,µg
+6.jpg,Cheese,"cheese, swiss",vitamin k (phylloquinone),0.7,µg
+6.jpg,Cheese,"cheese, swiss",zn,2.19,mg
+6.jpg,Ham,"ham, sliced, restaurant",ca,1.8,mg
+6.jpg,Ham,"ham, sliced, restaurant",cu,0.01,mg
+6.jpg,Ham,"ham, sliced, restaurant",glucose,0.54,g
+6.jpg,Ham,"ham, sliced, restaurant",fe,0.26,mg
+6.jpg,Ham,"ham, sliced, restaurant",mg,6.09,mg
+6.jpg,Ham,"ham, sliced, restaurant",mn,0.0,mg
+6.jpg,Ham,"ham, sliced, restaurant",p,73.8,mg
+6.jpg,Ham,"ham, sliced, restaurant",k,145.2,mg
+6.jpg,Ham,"ham, sliced, restaurant",na,309.0,mg
+6.jpg,Ham,"ham, sliced, restaurant",sucrose,0.12,g
+6.jpg,Ham,"ham, sliced, restaurant",total fat (nlea),1.06,g
+6.jpg,Ham,"ham, sliced, restaurant",zn,0.53,mg
+2.jpg,Cabbage Roll,"cabbage, red, raw",ca,256.57,mg
+2.jpg,Cabbage Roll,"cabbage, red, raw",cu,0.18,mg
+2.jpg,Cabbage Roll,"cabbage, red, raw",mg,74.3,mg
+2.jpg,Cabbage Roll,"cabbage, red, raw",mn,1.04,mg
+2.jpg,Cabbage Roll,"cabbage, red, raw",mo,20.55,µg
+2.jpg,Cabbage Roll,"cabbage, red, raw",p,309.31,mg
+2.jpg,Cabbage Roll,"cabbage, red, raw",k,1262.35,mg
+2.jpg,Cabbage Roll,"cabbage, red, raw",na,209.82,mg
+2.jpg,Cabbage Roll,"cabbage, red, raw",vitamin b-6,0.59,mg
+2.jpg,Cabbage Roll,"cabbage, red, raw",total ascorbic acid,129.35,mg
+2.jpg,Cabbage Roll,"cabbage, red, raw",vitamin k (phylloquinone),72.9,µg
+2.jpg,Cabbage Roll,"cabbage, red, raw",zn,1.78,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",ca,5.13,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",cu,0.09,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",fructose,3.52,g
+2.jpg,Potatoes,"potatoes, red, without skin, raw",glucose,1.67,g
+2.jpg,Potatoes,"potatoes, red, without skin, raw",high molecular weight dietary fiber (hmwdf),12.9,g
+2.jpg,Potatoes,"potatoes, red, without skin, raw",fe,1.51,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",low molecular weight dietary fiber (lmwdf),0.89,g
+2.jpg,Potatoes,"potatoes, red, without skin, raw",mg,23.6,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",mn,0.17,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",mo,7.41,µg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",niacin,3.17,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",p,55.6,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",k,472.0,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",na,2.86,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",sucrose,7.21,g
+2.jpg,Potatoes,"potatoes, red, without skin, raw",thiamin,0.22,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",total dietary fiber (aoac 2011.25),13.8,g
+2.jpg,Potatoes,"potatoes, red, without skin, raw",vitamin b-6,0.14,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",total ascorbic acid,21.3,mg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",vitamin k (phylloquinone),1.1,µg
+2.jpg,Potatoes,"potatoes, red, without skin, raw",zn,0.39,mg
+2.jpg,Cabbage,"cabbage, red, raw",ca,15.5,mg
+2.jpg,Cabbage,"cabbage, red, raw",cu,0.0,mg
+2.jpg,Cabbage,"cabbage, red, raw",mg,6.65,mg
+2.jpg,Cabbage,"cabbage, red, raw",mn,0.15,mg
+2.jpg,Cabbage,"cabbage, red, raw",mo,3.0,µg
+2.jpg,Cabbage,"cabbage, red, raw",p,17.9,mg
+2.jpg,Cabbage,"cabbage, red, raw",k,134.5,mg
+2.jpg,Cabbage,"cabbage, red, raw",na,5.85,mg
+2.jpg,Cabbage,"cabbage, red, raw",vitamin b-6,0.09,mg
+2.jpg,Cabbage,"cabbage, red, raw",total ascorbic acid,26.95,mg
+2.jpg,Cabbage,"cabbage, red, raw",vitamin k (phylloquinone),16.15,µg
+2.jpg,Cabbage,"cabbage, red, raw",zn,0.12,mg
+2.jpg,Cucumber,"cucumber, with peel, raw",biotin,0.29,µg
+2.jpg,Cucumber,"cucumber, with peel, raw",ca,4.89,mg
+2.jpg,Cucumber,"cucumber, with peel, raw",cu,0.02,mg
+2.jpg,Cucumber,"cucumber, with peel, raw",mg,3.03,mg
+2.jpg,Cucumber,"cucumber, with peel, raw",mn,0.03,mg
+2.jpg,Cucumber,"cucumber, with peel, raw",mo,1.12,µg
+2.jpg,Cucumber,"cucumber, with peel, raw",p,6.96,mg
+2.jpg,Cucumber,"cucumber, with peel, raw",k,51.0,mg
+2.jpg,Cucumber,"cucumber, with peel, raw",na,0.46,mg
+2.jpg,Cucumber,"cucumber, with peel, raw",vitamin k (phylloquinone),7.2,µg
+2.jpg,Cucumber,"cucumber, with peel, raw",zn,0.06,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",ca,121.25,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",beta,2.5,µg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",cholesterol,5.0,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",cu,0.03,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",total dietary,1.44,g
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",total,25.0,µg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",fructose,2.61,g
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",galactose,0.65,g
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",glucose,1.05,g
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",fe,0.11,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",lactose,3.09,g
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",lutein + zeaxanthin,5.0,µg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",mg,13.0,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",mn,0.04,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",niacin,0.26,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",pantothenic acid,0.62,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",p,141.25,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",k,166.25,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",riboflavin,0.38,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",se,19.21,µg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",na,40.0,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",sucrose,6.95,g
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",total fat (nlea),1.22,g
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",vitamin b-12,0.56,µg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",vitamin b-6,0.06,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",total ascorbic acid,0.25,mg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",vitamin d (d2 + d3),1.25,µg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",international units,50.0,iu
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",vitamin d3 (cholecalciferol),1.25,µg
+2.jpg,Yogurt Dessert,"yogurt, greek, strawberry, nonfat",zn,0.58,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",ca,63.3,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",cu,0.04,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",total dietary,0.69,g
+2.jpg,Bread Roll,"bread, white, commercially prepared",fructose,0.68,g
+2.jpg,Bread Roll,"bread, white, commercially prepared",glucose,0.43,g
+2.jpg,Bread Roll,"bread, white, commercially prepared",fe,1.01,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",lactose,0.02,g
+2.jpg,Bread Roll,"bread, white, commercially prepared",mg,8.07,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",maltose,0.47,g
+2.jpg,Bread Roll,"bread, white, commercially prepared",mn,0.19,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",niacin,1.43,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",pantothenic acid,0.16,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",p,33.9,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",k,35.1,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",riboflavin,0.07,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",se,6.96,µg
+2.jpg,Bread Roll,"bread, white, commercially prepared",na,143.1,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",thiamin,0.15,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",total fat (nlea),1.03,g
+2.jpg,Bread Roll,"bread, white, commercially prepared",vitamin b-6,0.03,mg
+2.jpg,Bread Roll,"bread, white, commercially prepared",zn,0.26,mg
+1.jpg,fish fillet,"fish, haddock, raw",ca,222.5,mg
+1.jpg,fish fillet,"fish, haddock, raw",cholesterol,68.18,mg
+1.jpg,fish fillet,"fish, haddock, raw",cu,0.1,mg
+1.jpg,fish fillet,"fish, haddock, raw",fe,0.75,mg
+1.jpg,fish fillet,"fish, haddock, raw",mg,56.59,mg
+1.jpg,fish fillet,"fish, haddock, raw",mn,0.16,mg
+1.jpg,fish fillet,"fish, haddock, raw",niacin,4.87,mg
+1.jpg,fish fillet,"fish, haddock, raw",pantothenic acid,0.57,mg
+1.jpg,fish fillet,"fish, haddock, raw",p,436.4,mg
+1.jpg,fish fillet,"fish, haddock, raw",k,798.7,mg
+1.jpg,fish fillet,"fish, haddock, raw",riboflavin,0.14,mg
+1.jpg,fish fillet,"fish, haddock, raw",se,31.71,µg
+1.jpg,fish fillet,"fish, haddock, raw",na,586.35,mg
+1.jpg,fish fillet,"fish, haddock, raw",thiamin,0.06,mg
+1.jpg,fish fillet,"fish, haddock, raw",total fat (nlea),0.38,g
+1.jpg,fish fillet,"fish, haddock, raw",vitamin b-12,2.2,µg
+1.jpg,fish fillet,"fish, haddock, raw",vitamin b-6,0.44,mg
+1.jpg,fish fillet,"fish, haddock, raw",vitamin d (d2 + d3),0.82,µg
+1.jpg,fish fillet,"fish, haddock, raw",international units,30.28,iu
+1.jpg,fish fillet,"fish, haddock, raw",vitamin d3 (cholecalciferol),0.82,µg
+1.jpg,fish fillet,"fish, haddock, raw",vitamin e (alpha-tocopherol),0.78,mg
+1.jpg,fish fillet,"fish, haddock, raw",zn,1.25,mg
+1.jpg,carrots,"carrots, baby, raw",biotin,1.2,µg
+1.jpg,carrots,"carrots, baby, raw",ca,21.1,mg
+1.jpg,carrots,"carrots, baby, raw",cu,0.02,mg
+1.jpg,carrots,"carrots, baby, raw",total dietary,2.15,g
+1.jpg,carrots,"carrots, baby, raw",total,23.6,µg
+1.jpg,carrots,"carrots, baby, raw",fe,0.04,mg
+1.jpg,carrots,"carrots, baby, raw",mg,5.55,mg
+1.jpg,carrots,"carrots, baby, raw",mn,0.05,mg
+1.jpg,carrots,"carrots, baby, raw",niacin,0.37,mg
+1.jpg,carrots,"carrots, baby, raw",p,14.8,mg
+1.jpg,carrots,"carrots, baby, raw",k,118.5,mg
+1.jpg,carrots,"carrots, baby, raw",riboflavin,0.06,mg
+1.jpg,carrots,"carrots, baby, raw",na,31.35,mg
+1.jpg,carrots,"carrots, baby, raw",thiamin,0.02,mg
+1.jpg,carrots,"carrots, baby, raw",vitamin b-6,0.06,mg
+1.jpg,carrots,"carrots, baby, raw",zn,0.08,mg
+1.jpg,snap peas,"beans, snap, green, canned, regular pack, drained solids",ca,14.4,mg
+1.jpg,snap peas,"beans, snap, green, canned, regular pack, drained solids",cu,0.02,mg
+1.jpg,snap peas,"beans, snap, green, canned, regular pack, drained solids",fructose,1.11,g
+1.jpg,snap peas,"beans, snap, green, canned, regular pack, drained solids",glucose,1.17,g
+1.jpg,snap peas,"beans, snap, green, canned, regular pack, drained solids",fe,0.31,mg
+1.jpg,snap peas,"beans, snap, green, canned, regular pack, drained solids",mg,5.08,mg
+1.jpg,snap peas,"beans, snap, green, canned, regular pack, drained solids",mn,0.07,mg
+1.jpg,snap peas,"beans, snap, green, canned, regular pack, drained solids",p,9.2,mg
+1.jpg,snap peas,"beans, snap, green, canned, regular pack, drained solids",k,38.8,mg
+1.jpg,snap peas,"beans, snap, green, canned, regular pack, drained solids",na,112.8,mg
+1.jpg,snap peas,"beans, snap, green, canned, regular pack, drained solids",zn,0.08,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",alanine,0.01,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",arginine,0.01,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",aspartic acid,0.12,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",ca,1.2,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",beta,35.1,µg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",cu,0.02,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",cystine,0.0,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",insoluble,0.27,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",soluble,0.18,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",total dietary,0.45,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",total,1.8,µg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",fructose,0.46,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",galactose,0.02,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",glucose,0.58,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",glutamic acid,0.02,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",glycine,0.01,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",histidine,0.0,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",fe,0.1,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",isoleucine,0.0,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",leucine,0.01,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",lutein + zeaxanthin,81.8,µg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",lysine,0.01,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",mg,2.4,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",maltose,0.02,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",mn,0.01,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",methionine,0.0,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",niacin,0.24,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",pantothenic acid,0.05,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",phenylalanine,0.01,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",p,6.6,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",k,36.6,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",proline,0.01,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",riboflavin,0.01,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",se,0.63,µg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",serine,0.01,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",na,3.9,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",sucrose,1.47,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",thiamin,0.01,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",threonine,0.0,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",tryptophan,0.0,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",tyrosine,0.0,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",valine,0.01,g
+1.jpg,yellow bell peppers,"peaches, yellow, raw",rae,12.0,µg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",vitamin b-6,0.01,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",total ascorbic acid,1.23,mg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",vitamin k (phylloquinone),1.74,µg
+1.jpg,yellow bell peppers,"peaches, yellow, raw",zn,0.07,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",ca,5.6,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",beta,0.09,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",cu,0.01,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",total dietary,0.36,g
+1.jpg,sauce,"sauce, salsa, ready-to-serve",fructose,0.4,g
+1.jpg,sauce,"sauce, salsa, ready-to-serve",glucose,0.33,g
+1.jpg,sauce,"sauce, salsa, ready-to-serve",fe,0.08,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",lutein + zeaxanthin,42.2,µg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",lycopene,1262.0,µg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",mg,3.04,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",mn,0.02,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",niacin,0.22,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",pantothenic acid,0.04,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",p,6.4,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",k,51.6,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",na,131.2,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",sucrose,0.04,g
+1.jpg,sauce,"sauce, salsa, ready-to-serve",thiamin,0.01,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",gamma,0.03,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",delta,0.0,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",rae,4.8,µg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",vitamin b-6,0.04,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",vitamin e (alpha-tocopherol),0.24,mg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",vitamin k (phylloquinone),0.84,µg
+1.jpg,sauce,"sauce, salsa, ready-to-serve",zn,0.04,mg
+1.jpg,yogurt,"yogurt, plain, nonfat",ca,167.0,mg
+1.jpg,yogurt,"yogurt, plain, nonfat",cholesterol,3.38,mg
+1.jpg,yogurt,"yogurt, plain, nonfat",i,58.7,µg
+1.jpg,yogurt,"yogurt, plain, nonfat",mg,15.2,mg
+1.jpg,yogurt,"yogurt, plain, nonfat",p,127.0,mg
+1.jpg,yogurt,"yogurt, plain, nonfat",k,210.0,mg
+1.jpg,yogurt,"yogurt, plain, nonfat",na,51.5,mg
+1.jpg,yogurt,"yogurt, plain, nonfat",vitamin d (d2 + d3),0.22,µg
+1.jpg,yogurt,"yogurt, plain, nonfat",international units,8.68,iu
+1.jpg,yogurt,"yogurt, plain, nonfat",vitamin d3 (cholecalciferol),0.22,µg
+1.jpg,yogurt,"yogurt, plain, nonfat",zn,0.6,mg
+3.jpeg,Bread,"bread, white, commercially prepared",ca,666.95,mg
+3.jpeg,Bread,"bread, white, commercially prepared",cu,0.14,mg
+3.jpeg,Bread,"bread, white, commercially prepared",total dietary,2.6,g
+3.jpeg,Bread,"bread, white, commercially prepared",fructose,1.95,g
+3.jpeg,Bread,"bread, white, commercially prepared",glucose,2.0,g
+3.jpeg,Bread,"bread, white, commercially prepared",fe,2.33,mg
+3.jpeg,Bread,"bread, white, commercially prepared",lactose,0.04,g
+3.jpeg,Bread,"bread, white, commercially prepared",mg,57.54,mg
+3.jpeg,Bread,"bread, white, commercially prepared",maltose,0.94,g
+3.jpeg,Bread,"bread, white, commercially prepared",mn,0.45,mg
+3.jpeg,Bread,"bread, white, commercially prepared",niacin,2.88,mg
+3.jpeg,Bread,"bread, white, commercially prepared",pantothenic acid,0.47,mg
+3.jpeg,Bread,"bread, white, commercially prepared",p,509.6,mg
+3.jpeg,Bread,"bread, white, commercially prepared",k,565.2,mg
+3.jpeg,Bread,"bread, white, commercially prepared",riboflavin,0.27,mg
+3.jpeg,Bread,"bread, white, commercially prepared",se,25.96,µg
+3.jpeg,Bread,"bread, white, commercially prepared",na,8460.92,mg
+3.jpeg,Bread,"bread, white, commercially prepared",thiamin,0.31,mg
+3.jpeg,Bread,"bread, white, commercially prepared",total fat (nlea),14.17,g
+3.jpeg,Bread,"bread, white, commercially prepared",vitamin b-6,0.08,mg
+3.jpeg,Bread,"bread, white, commercially prepared",zn,3.46,mg
+3.jpeg,Butter,"salt, table, iodized",ca,10.0,mg
+3.jpeg,Butter,"salt, table, iodized",i,1074.7,µg
+3.jpeg,Butter,"salt, table, iodized",mn,0.01,mg
+3.jpeg,Butter,"salt, table, iodized",k,0.4,mg
+3.jpeg,Butter,"salt, table, iodized",na,7740.0,mg
+3.jpeg,Ham,"ham, sliced, restaurant",ca,1.8,mg
+3.jpeg,Ham,"ham, sliced, restaurant",cu,0.01,mg
+3.jpeg,Ham,"ham, sliced, restaurant",glucose,0.54,g
+3.jpeg,Ham,"ham, sliced, restaurant",fe,0.26,mg
+3.jpeg,Ham,"ham, sliced, restaurant",mg,6.09,mg
+3.jpeg,Ham,"ham, sliced, restaurant",mn,0.0,mg
+3.jpeg,Ham,"ham, sliced, restaurant",p,73.8,mg
+3.jpeg,Ham,"ham, sliced, restaurant",k,145.2,mg
+3.jpeg,Ham,"ham, sliced, restaurant",na,309.0,mg
+3.jpeg,Ham,"ham, sliced, restaurant",sucrose,0.12,g
+3.jpeg,Ham,"ham, sliced, restaurant",total fat (nlea),1.06,g
+3.jpeg,Ham,"ham, sliced, restaurant",zn,0.53,mg
+3.jpeg,Cheese,"cheese, swiss",betaine,0.04,mg
+3.jpeg,Cheese,"cheese, swiss",ca,356.0,mg
+3.jpeg,Cheese,"cheese, swiss",alpha,0.05,mg
+3.jpeg,Cheese,"cheese, swiss",beta,0.01,mg
+3.jpeg,Cheese,"cheese, swiss",cholesterol,40.58,mg
+3.jpeg,Cheese,"cheese, swiss",free,1.32,mg
+3.jpeg,Cheese,"cheese, swiss",from phosphocholine,0.04,mg
+3.jpeg,Cheese,"cheese, swiss",from phosphotidyl choline,2.4,mg
+3.jpeg,Cheese,"cheese, swiss",from sphingomyelin,1.76,mg
+3.jpeg,Cheese,"cheese, swiss",total,3.6,µg
+3.jpeg,Cheese,"cheese, swiss",cu,0.02,mg
+3.jpeg,Cheese,"cheese, swiss",fe,0.05,mg
+3.jpeg,Cheese,"cheese, swiss",lutein + zeaxanthin,3.2,µg
+3.jpeg,Cheese,"cheese, swiss",lycopene,0.4,µg
+3.jpeg,Cheese,"cheese, swiss",mg,13.36,mg
+3.jpeg,Cheese,"cheese, swiss",mn,0.01,mg
+3.jpeg,Cheese,"cheese, swiss",niacin,0.02,mg
+3.jpeg,Cheese,"cheese, swiss",pantothenic acid,0.14,mg
+3.jpeg,Cheese,"cheese, swiss",p,229.6,mg
+3.jpeg,Cheese,"cheese, swiss",k,28.4,mg
+3.jpeg,Cheese,"cheese, swiss",retinol,114.8,µg
+3.jpeg,Cheese,"cheese, swiss",riboflavin,0.12,mg
+3.jpeg,Cheese,"cheese, swiss",se,12.04,µg
+3.jpeg,Cheese,"cheese, swiss",na,74.0,mg
+3.jpeg,Cheese,"cheese, swiss",thiamin,0.0,mg
+3.jpeg,Cheese,"cheese, swiss",gamma,0.03,mg
+3.jpeg,Cheese,"cheese, swiss",total fat (nlea),11.04,g
+3.jpeg,Cheese,"cheese, swiss",rae,116.8,µg
+3.jpeg,Cheese,"cheese, swiss",vitamin b-12,1.21,µg
+3.jpeg,Cheese,"cheese, swiss",vitamin b-6,0.03,mg
+3.jpeg,Cheese,"cheese, swiss",vitamin e (alpha-tocopherol),0.24,mg
+3.jpeg,Cheese,"cheese, swiss",vitamin k (menaquinone-4),2.52,µg
+3.jpeg,Cheese,"cheese, swiss",vitamin k (phylloquinone),0.56,µg
+3.jpeg,Cheese,"cheese, swiss",zn,1.75,mg
+3.jpeg,Egg,"eggplant, raw",ca,5.55,mg
+3.jpeg,Egg,"eggplant, raw",cu,0.03,mg
+3.jpeg,Egg,"eggplant, raw",total dietary,1.23,g
+3.jpeg,Egg,"eggplant, raw",fructose,0.58,g
+3.jpeg,Egg,"eggplant, raw",glucose,0.59,g
+3.jpeg,Egg,"eggplant, raw",mg,6.75,mg
+3.jpeg,Egg,"eggplant, raw",mn,0.05,mg
+3.jpeg,Egg,"eggplant, raw",p,11.4,mg
+3.jpeg,Egg,"eggplant, raw",k,111.0,mg
+3.jpeg,Egg,"eggplant, raw",na,0.22,mg
+3.jpeg,Egg,"eggplant, raw",zn,0.06,mg
+3.jpeg,Yogurt,"yogurt, plain, nonfat",ca,167.0,mg
+3.jpeg,Yogurt,"yogurt, plain, nonfat",cholesterol,3.38,mg
+3.jpeg,Yogurt,"yogurt, plain, nonfat",i,58.7,µg
+3.jpeg,Yogurt,"yogurt, plain, nonfat",mg,15.2,mg
+3.jpeg,Yogurt,"yogurt, plain, nonfat",p,127.0,mg
+3.jpeg,Yogurt,"yogurt, plain, nonfat",k,210.0,mg
+3.jpeg,Yogurt,"yogurt, plain, nonfat",na,51.5,mg
+3.jpeg,Yogurt,"yogurt, plain, nonfat",vitamin d (d2 + d3),0.22,µg
+3.jpeg,Yogurt,"yogurt, plain, nonfat",international units,8.68,iu
+3.jpeg,Yogurt,"yogurt, plain, nonfat",vitamin d3 (cholecalciferol),0.22,µg
+3.jpeg,Yogurt,"yogurt, plain, nonfat",zn,0.6,mg
